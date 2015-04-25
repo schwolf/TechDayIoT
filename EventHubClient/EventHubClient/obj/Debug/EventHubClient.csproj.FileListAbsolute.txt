@@ -1,0 +1,12 @@
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\EventHubClient.exe.config
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\EventHubClient.exe
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\EventHubClient.pdb
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Microsoft.ServiceBus.dll
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Microsoft.ServiceBus.xml
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Workspace\GitHub\EventHubClient\EventHubClient\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\GitHub\EventHubClient\EventHubClient\obj\Debug\EventHubClient.csprojResolveAssemblyReference.cache
+C:\Workspace\GitHub\EventHubClient\EventHubClient\obj\Debug\EventHubClient.exe
+C:\Workspace\GitHub\EventHubClient\EventHubClient\obj\Debug\EventHubClient.pdb
